@@ -1,7 +1,6 @@
 # 💫 About Me:
 👋 Hi! I'm a Fullstack Developer with a knack for MERN stack and blockchain 🌐. Passionate about NFTs and web3, I'm all about creating seamless user experiences and top-notch architectures.
 
-🎓 Pursuing B.Tech in CS at UEM, Kolkata with a 9.02 CGPA. Skilled in HTML, CSS, React.JS, Solidity, and more!
 
 🚀 Professional highlights:
 
