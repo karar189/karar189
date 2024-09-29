@@ -1,16 +1,6 @@
 # 💫 About Me:
 👋 Hi! I'm a Fullstack Developer with a knack for MERN stack and blockchain 🌐. Passionate about NFTs and web3, I'm all about creating seamless user experiences and top-notch architectures.
 
-
-🚀 Professional highlights:
-
-Fullstack Blockchain Developer at Voice First LLC (OnChain Magic 🧙‍♂️)
-Fullstack Developer roles at FilmFinance.App and Drypto 📈
-Frontend Developer at Heart It Out, boosting website performance 📊
-👨‍💻 Projects like AgroBit, OrbShift, and ResQAlert showcase my drive to use tech for impactful solutions.
-
-🌟 Lead at Google Developer Student Club, UEMK and winner at Hack4Bengal.
-
 Always eager to collaborate and innovate! Let's connect! 💼🤝.<br>Reach me at : kararsweta@gmail.com
 
 
