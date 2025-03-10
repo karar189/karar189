@@ -1,7 +1,11 @@
-# ⚡ Developer Portfolio ⚡
+# ⚡ D E V E L O P E R &nbsp; P O R T F O L I O ⚡
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=1000&lines=Fullstack+Developer+%7C+Blockchain+Enthusiast+%7C+Web3+Builder" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" height="150">
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=28&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=1000&height=100&lines=Fullstack+Developer+%7C+Blockchain+Dev+%26+Researcher;Code+%E2%86%92+Create+%E2%86%92+Disrupt" alt="Typing SVG" />
 </div>
 
 ## 👁️‍🗨️ About Me
@@ -12,7 +16,8 @@ const developer = {
   focus: ["MERN Stack", "Web3", "DeFi", "NFTs"],
   currently: "Exploring the depths of blockchain protocols",
   learning: ["Rust", "Cryptography", "Core Blockchain Architecture"],
-  passion: "Building seamless digital experiences at the intersection of web and blockchain"
+  passion: "Building seamless digital experiences at the intersection of web and blockchain",
+  roles: ["Developer", "Researcher"]
 };
 ```
 
@@ -67,17 +72,8 @@ const developer = {
 ![Figma](https://img.shields.io/badge/figma-%23000000.svg?style=flat&logo=figma&logoColor=%23F24E1E)
 ![Canva](https://img.shields.io/badge/Canva-%23000000.svg?style=flat&logo=Canva&logoColor=%2300C4CC)
 
-<br>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="280"/>
-</div>
-
 ---
 
 <div align="center">
-  
-  ![](https://komarev.com/ghpvc/?username=karar189&style=for-the-badge&color=6A8AFF&label=VISITORS)
-  
-  ❝ **Diving into the abyss of cryptography and decentralized systems.** ❞
+  <img src="https://komarev.com/ghpvc/?username=karar189&style=for-the-badge&color=00FFFF&label=VISITORS&labelColor=000000" alt="Profile visitors" />
 </div>
