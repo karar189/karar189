@@ -34,10 +34,6 @@ const developer = {
 
 ## 🌑 Tech Arsenal
 
-<div align="right">
-  <img src="pixel-sword.svg" width="32" alt="Pixel Sword">
-</div>
-
 ### Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat&logo=solidity&logoColor=white)
@@ -81,9 +77,6 @@ const developer = {
 ![Figma](https://img.shields.io/badge/figma-%23000000.svg?style=flat&logo=figma&logoColor=%23F24E1E)
 ![Canva](https://img.shields.io/badge/Canva-%23000000.svg?style=flat&logo=Canva&logoColor=%2300C4CC)
 
-<div align="center">
-  <img src="pixel-divider.svg" width="100%" height="10" alt="Pixel Divider">
-</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=karar189&style=for-the-badge&color=00FFFF&label=VISITORS&labelColor=000000" alt="Profile visitors" />
