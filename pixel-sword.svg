@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 32" width="16" height="32">
+  <!-- Pixel Sword -->
+  <rect x="7" y="2" width="2" height="20" fill="#C0C0C0" /> <!-- Blade -->
+  <rect x="6" y="20" width="4" height="2" fill="#DAA520" /> <!-- Guard -->
+  <rect x="7" y="22" width="2" height="6" fill="#8B4513" /> <!-- Handle -->
+  <rect x="6" y="28" width="4" height="2" fill="#DAA520" /> <!-- Pommel -->
+  <rect x="7" y="0" width="2" height="2" fill="#00F0FF" /> <!-- Tip glow -->
+  <rect x="6" y="2" width="1" height="1" fill="#A9A9A9" /> <!-- Edge detail -->
+  <rect x="9" y="2" width="1" height="1" fill="#A9A9A9" /> <!-- Edge detail -->
+</svg>
