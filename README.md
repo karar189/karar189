@@ -8,6 +8,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=28&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=1000&height=100&lines=Fullstack+Developer+%7C+Blockchain+Dev+%26+Researcher;Code+%E2%86%92+Create+%E2%86%92+Disrupt" alt="Typing SVG" />
 </div>
 
+<div align="center">
+  <!-- Save the SVG to your repo and link it here -->
+  <img src="pixel-art.svg" width="320" alt="Pixel Art Developer">
+</div>
+
 ## 👁️‍🗨️ About Me
 ```javascript
 const developer = {
@@ -28,6 +33,10 @@ const developer = {
 </p>
 
 ## 🌑 Tech Arsenal
+
+<div align="right">
+  <img src="pixel-sword.svg" width="32" alt="Pixel Sword">
+</div>
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
@@ -72,7 +81,9 @@ const developer = {
 ![Figma](https://img.shields.io/badge/figma-%23000000.svg?style=flat&logo=figma&logoColor=%23F24E1E)
 ![Canva](https://img.shields.io/badge/Canva-%23000000.svg?style=flat&logo=Canva&logoColor=%2300C4CC)
 
----
+<div align="center">
+  <img src="pixel-divider.svg" width="100%" height="10" alt="Pixel Divider">
+</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=karar189&style=for-the-badge&color=00FFFF&label=VISITORS&labelColor=000000" alt="Profile visitors" />
