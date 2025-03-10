@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 10" width="320" height="10">
+  <!-- Pixel Divider -->
+  <rect width="320" height="10" fill="transparent" />
+  
+  <!-- Pixel blocks - each 4px wide -->
+  <rect x="0" y="4" width="4" height="2" fill="#00F0FF" />
+  <rect x="8" y="4" width="8" height="2" fill="#00F0FF" />
+  <rect x="20" y="4" width="12" height="2" fill="#00F0FF" />
+  <rect x="36" y="4" width="4" height="2" fill="#00F0FF" />
+  <rect x="44" y="4" width="16" height="2" fill="#00F0FF" />
+  <rect x="64" y="4" width="8" height="2" fill="#00F0FF" />
+  <rect x="76" y="4" width="4" height="2" fill="#00F0FF" />
+  <rect x="84" y="4" width="20" height="2" fill="#00F0FF" />
+  <rect x="108" y="4" width="4" height="2" fill="#00F0FF" />
+  <rect x="116" y="4" width="12" height="2" fill="#00F0FF" />
+  <rect x="132" y="4" width="8" height="2" fill="#00F0FF" />
+  <rect x="144" y="4" width="16" height="2" fill="#00F0FF" />
+  <rect x="164" y="4" width="4" height="2" fill="#00F0FF" />
+  <rect x="172" y="4" width="20" height="2" fill="#00F0FF" />
+  <rect x="196" y="4" width="8" height="2" fill="#00F0FF" />
+  <rect x="208" y="4" width="4" height="2" fill="#00F0FF" />
+  <rect x="216" y="4" width="12" height="2" fill="#00F0FF" />
+  <rect x="232" y="4" width="16" height="2" fill="#00F0FF" />
+  <rect x="252" y="4" width="4" height="2" fill="#00F0FF" />
+  <rect x="260" y="4" width="8" height="2" fill="#00F0FF" />
+  <rect x="272" y="4" width="20" height="2" fill="#00F0FF" />
+  <rect x="296" y="4" width="4" height="2" fill="#00F0FF" />
+  <rect x="304" y="4" width="12" height="2" fill="#00F0FF" />
+</svg>
